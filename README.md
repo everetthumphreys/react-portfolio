@@ -4,7 +4,7 @@
 This is my portfolio website that I designed to demonstrate the skills that I am picking up in the Coding Bootcamp.
 
 ### View my Portfolio
-[Click Here to view the live site](https://everetthumphreys.github.io/react-portfolio/)
+[Click Here to view the live site](https://everetthumphreys.github.io/portfolio-responsive/)
 
 ### Installation
 Clone it to your PC and open index.html in a web browser.
