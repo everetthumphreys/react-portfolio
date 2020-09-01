@@ -44,7 +44,7 @@ function Profile() {
                                 <a target="_blank" href="tel:1-678-463-0129">678.463.0129</a><span> / </span>
                                 <a target="_blank" href="https://www.linkedin.com/in/everett-humphreys/">LinkedIn</a><span> / </span>
                                 <a target="_blank" href="https://github.com/everetthumphreys">GitHub</a><span> / </span>
-                                <a target="_blank" href="assets/misc/EverettHumphreysResume.pdf">Resume</a>
+                                <a target="_blank" href="assets/misc/everett-humphreys-resume.pdf">Resume</a>
                             </p>
                         </div >
                     </div >
